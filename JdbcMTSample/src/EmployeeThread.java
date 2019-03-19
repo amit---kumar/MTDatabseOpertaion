@@ -144,5 +144,9 @@ public class EmployeeThread implements Runnable {
          thread2.start();
          thread3.start();
          
-    }
+    }	
+}
+
+class Test{
+	int a=0;
 }
