@@ -144,5 +144,17 @@ public class EmployeeThread implements Runnable {
          thread2.start();
          thread3.start();
          
+<<<<<<< HEAD
+    }	
+}
+
+class Test{
+	int a=0;
+=======
     }
+}
+
+class Test{
+	
+>>>>>>> remotes/origin/b1t1
 }
